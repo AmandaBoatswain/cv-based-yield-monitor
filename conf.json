@@ -1,0 +1,13 @@
+{
+	/****
+	* DATASET PATHS
+	****/
+	"camera_sources":[0, 1],
+	"log_file_path": "C:/Users/amand/Desktop/yield_monitor_results/",
+	"log_file_name": "test.csv",
+	"gps_ports": ["COM1", "COM6", "COM7", "COM9", "COM12"],
+	"gps_baudrate": 38400,
+	"image_save_path": "C:/Users/amand/Desktop/yield_monitor_results/",
+	"external_drive": "D:/", 
+	"calibration_directory": "C:/Users/amand/Desktop/yield_monitor/calibration_photos_undistorted/"
+}
