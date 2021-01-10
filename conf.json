@@ -1,0 +1,7 @@
+{
+"camera_sources": [0],
+"gps_ports": ["COM1","COM4","COM5", "COM6", "COM7", "COM9", "COM12"],
+"gps_baudrate": 38400,
+"external_drive": "E:/",
+"calibration_directory": "C:/Users/Guillaume/Desktop/yield_monitor/calibration_photos_undistorted"
+}
