@@ -16,7 +16,7 @@ Download all the files from the zip folder in this repository. Open a terminal a
 
 ` ` ` https://github.com/AmandaBoatswain/cv-based-yield-monitor ` ` ` 
 
-## Helper Functionshttps://buy.garmin.com/en-CA/CA/p/100686
+## Helper Functions
 Helper functions were created to help check if the peripheral hardware is properly connected. The ` ` ` camera_test.py ` ` `  file checks if the USB camera can be accessed and shows the camera feed on the monitor, and the ` ` ` read_gps` ` `  and ` ` ` read_gps_new ` ` ` files test the GPS sensor. A [GARMIN 19X HVS sensor](https://buy.garmin.com/en-CA/CA/p/100686) was used as a GPS during testing and was connected to the computer using a standard RS-232 serial connector.  
 
 ## Contact information
