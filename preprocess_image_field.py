@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*
 
-""" LAST MODIFIED: Thursday August 8th, 2019 """
+""" LAST MODIFIED: December 9th, 2019 """
 
 """
 Development of a Machine Vision Based Yield Monitor for Shallot Onions and Carrot crops
