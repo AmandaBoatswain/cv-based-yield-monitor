@@ -25,8 +25,7 @@ for root, directories, files in os.walk(directory):
         
         else:
             print(filepath)
+            # loop through the images and run the K-Means clustering algorithm
             img = cv2.imread(filepath)        
             result = cluster_k_means.preprocess_watershed(img)
-            cv2.imshow("Result", result)
-        
-### loop through the images and run the K-Means clustering algorithm
+            #cv2.imshow("Result", result)
