@@ -6,7 +6,7 @@ Development of a Machine Vision Based Yield Monitor for Shallot Onions and
 Carrot crops Precision Agriculture and Sensor Systems (PASS) Research Group
 McGill University, Department of Bioresource Engineering
 
-preprocess_image.py --- This is a sub file from the yield monitoring program 
+cluster_k_means.py --- This is a sub file from the yield monitoring program 
 for the masters thesis of Amanda A. Boatswain Jacques. This file preprocesses 
 the given images using color thresholding, k-means clustering and watershed
 segmentation. It then draws circles around the detected vegetables classifying 
